@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![shivam0831 Github stats](https://github-readme-stats.vercel.app/api?username=shivam0831&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0831)
+
 <!--
 **shivam0831/shivam0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
