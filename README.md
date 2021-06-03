@@ -3,7 +3,7 @@
 
 ![shivam0831 Github stats](https://github-readme-stats.vercel.app/api?username=shivam0831&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0831)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0831&&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <!--
 **shivam0831/shivam0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
