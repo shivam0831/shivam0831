@@ -100,8 +100,17 @@ Some concepts I've been working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam0831&show_icons=true&hide_border=true&count_private=true&title_color=9FC6F2&text_color=9FC6F2&icon_color=9FC6F2&bg_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0831&layout=compact&hide_border=true&title_color=9FC6F2&text_color=9FC6F2&bg_color=ffffff" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shivam0831&show_icons=true&count_private=true&hide_border=true&title_color=9FC6F2&text_color=666666&icon_color=9FC6F2&bg_color=ffffff"
+    height="180"
+    alt="Shivam's GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0831&layout=compact&hide_border=true&title_color=9FC6F2&text_color=666666&bg_color=ffffff"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -114,10 +123,14 @@ Some concepts I've been working on:
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg?username=shivam0831" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shivam0831&hide_border=true"
+    alt="Shivam's Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
